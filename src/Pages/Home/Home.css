@@ -1,0 +1,12 @@
+:root {
+    --main-bg-color: #f9f9f9;
+  }
+  
+  .container {
+    background-color: var(--main-bg-color);
+    padding: 20px 2% 20px 17%;
+  }
+
+  .large-container{
+    padding-left: 7%;
+  }
